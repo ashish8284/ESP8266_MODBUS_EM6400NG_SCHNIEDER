@@ -10,5 +10,3 @@ To convert two 16 bit integer in to floating point Seprate function is used in c
 This is sample only for tutorial purpose.
 
 Tutorial Video :- https://www.youtube.com/embed/5n0Q8K1_xnU
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5n0Q8K1_xnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
