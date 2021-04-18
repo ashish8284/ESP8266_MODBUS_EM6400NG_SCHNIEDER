@@ -7,4 +7,6 @@ ESP reads MODBUS address from 0. hence we have to read 2699 address which actual
 ESP reads 16 bit integer. as per Energy meter manual Energy reading is 32 bit floating point.
 To convert two 16 bit integer in to floating point Seprate function is used in code.
 
-This is sample only.
+This is sample only for tutorial purpose.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5n0Q8K1_xnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
